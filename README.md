@@ -12,6 +12,39 @@
 
 ---
 
+## 🌐 Story Network Endpoints by Astrosynx
+
+### **Mainnet**
+> 🔗 [Astrosynx Story Mainnet Services](https://astrosynx.gitbook.io/services/documentation/mainnet-guides/story)
+
+| Service | URL |
+|----------|------|
+| 🧩 Addrbook/Seed/Peer | [https://astrosynx.gitbook.io/services/documentation/mainnet-guides/celestia](https://astrosynx.gitbook.io/services/documentation/mainnet-guides/celestia/public-endpoints-and-peering) |
+| ⚙️ RPC | [`https://story-mainnet-rpc.astrosynx.com/`](https://story-mainnet-rpc.astrosynx.com/) |
+| 🌐 API | [`https://story-mainnet-api.astrosynx.com/`](https://story-mainnet-api.astrosynx.com/) |
+| 💬 JSON-RPC | [`https://evm-story-mainnet.astrosynx.com:443`](https://evm-story-mainnet.astrosynx.com:443) |
+
+### **Testnet**
+> 🔗 [Astrosynx Story Testnet Services](https://astrosynx.gitbook.io/services/documentation/testnet-guides/story)
+
+| Service | URL |
+|----------|-----|
+| 🧩 Addrbook/Seed/Peer | [https://astrosynx.gitbook.io/services/documentation/testnet-guides/celestia](https://astrosynx.gitbook.io/services/documentation/testnet-guides/celestia/public-endpoints-and-peering) |
+| ⚙️ RPC | [`https://story-testnet-rpc.astrosynx.com/`](https://story-testnet-rpc.astrosynx.com/) |
+| 🌐 API | [`https://story-testnet-api.astrosynx.com/`](https://story-testnet-api.astrosynx.com/) |
+| 💬 JSON-RPC | [`https://evm-story-testnet.astrosynx.com:443`](https://evm-story-testnet.astrosynx.com:443) |
+
+---
+
+## 🗂 Snapshots
+| Network | Snapshot URL | Frequency | Pruning | Indexer |
+|--------|--------------|-----------|---------|---------|
+| **Mainnet** | https://mainnet-snap.astrosynx.com/story/ | Every 4 hours | `custom: 100/10` | `null` |
+| **Testnet** | https://testnet-snap.astrosynx.com/story/ | Every 4 hours | `custom: 100/10` | `null` |
+
+
+---
+
   <p align="center">
   <i>Maintained with 💙 by <b>Astrosynx</b> — Validator Infrastructure & Tools</i><br>
   <a href="https://astrosynx.com" target="_blank">🌐 astrosynx.com</a> •
