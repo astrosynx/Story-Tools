@@ -19,7 +19,7 @@
 
 | Service | URL |
 |----------|------|
-| 🧩 Addrbook/Seed/Peer | [https://astrosynx.gitbook.io/services/documentation/mainnet-guides/celestia](https://astrosynx.gitbook.io/services/documentation/mainnet-guides/celestia/public-endpoints-and-peering) |
+| 🧩 Addrbook/Seed/Peer | [https://astrosynx.gitbook.io/services/documentation/mainnet-guides/story](https://astrosynx.gitbook.io/services/documentation/mainnet-guides/story/public-endpoints-and-peering) |
 | ⚙️ RPC | [`https://story-mainnet-rpc.astrosynx.com/`](https://story-mainnet-rpc.astrosynx.com/) |
 | 🌐 API | [`https://story-mainnet-api.astrosynx.com/`](https://story-mainnet-api.astrosynx.com/) |
 | 💬 JSON-RPC | [`https://evm-story-mainnet.astrosynx.com:443`](https://evm-story-mainnet.astrosynx.com:443) |
@@ -29,7 +29,7 @@
 
 | Service | URL |
 |----------|-----|
-| 🧩 Addrbook/Seed/Peer | [https://astrosynx.gitbook.io/services/documentation/testnet-guides/celestia](https://astrosynx.gitbook.io/services/documentation/testnet-guides/celestia/public-endpoints-and-peering) |
+| 🧩 Addrbook/Seed/Peer | [https://astrosynx.gitbook.io/services/documentation/testnet-guides/story](https://astrosynx.gitbook.io/services/documentation/testnet-guides/story/public-endpoints-and-peering) |
 | ⚙️ RPC | [`https://story-testnet-rpc.astrosynx.com/`](https://story-testnet-rpc.astrosynx.com/) |
 | 🌐 API | [`https://story-testnet-api.astrosynx.com/`](https://story-testnet-api.astrosynx.com/) |
 | 💬 JSON-RPC | [`https://evm-story-testnet.astrosynx.com:443`](https://evm-story-testnet.astrosynx.com:443) |
